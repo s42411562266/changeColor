@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="Hello">哈囉!世界</string>
+    <string name="BOT1">放大</string>
 </resources>
