@@ -3,4 +3,6 @@
     <string name="app_name">My Application</string>
     <string name="Hello">哈囉!世界</string>
     <string name="BOT1">放大</string>
+    <string name="BIG">放大</string>
+    <string name="BOT2">縮小</string>
 </resources>
